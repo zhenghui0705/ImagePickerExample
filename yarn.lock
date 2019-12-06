@@ -3931,9 +3931,9 @@ minizlib@^1.1.1:
     minipass "^2.2.1"
 
 mixin-deep@^1.2.0:
-  version "1.3.1"
-  resolved "https://registry.yarnpkg.com/mixin-deep/-/mixin-deep-1.3.1.tgz#a49e7268dce1a0d9698e45326c5626df3543d0fe"
-  integrity sha512-8ZItLHeEgaqEvd5lYBXfm4EZSFCX29Jb9K+lAHhDKzReKBQKj3R+7NOF6tjqYi9t4oI8VUfaWITJQm86wnXGNQ==
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/mixin-deep/-/mixin-deep-1.3.2.tgz#1120b43dc359a785dce65b55b82e257ccf479566"
+  integrity sha512-WRoDn//mXBiJ1H40rqa3vH0toePwSsGb45iInWlTySa+Uu4k3tYUSxa2v1KqAiLtvlrSzaExqS1gtk96A9zvEA==
   dependencies:
     for-in "^1.0.2"
     is-extendable "^1.0.1"
@@ -4622,10 +4622,10 @@ react-is@^16.6.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.6.3.tgz#d2d7462fcfcbe6ec0da56ad69047e47e56e7eac0"
   integrity sha512-u7FDWtthB4rWibG/+mFbVd5FvdI20yde86qKGx4lVUTWmPlSWQ4QxbBIrrs+HnXGbxOUlUzTAP/VDmvCwaP2yA==
 
-react-native-syan-image-picker@^0.3.8:
-  version "0.3.8"
-  resolved "http://172.16.164.133:4873/react-native-syan-image-picker/-/react-native-syan-image-picker-0.3.8.tgz#18c39170312ba81aaeface49e663dff30d7f4399"
-  integrity sha512-R+ePfMAS4cFzUu3nKCpHGS844IWjd8GKczuvZAQjs8T9p5QhfHjp0ozpimXoUtwcYuCe8TpLZmcf41TWShWYPg==
+react-native-syan-image-picker@^0.3.9:
+  version "0.3.9"
+  resolved "https://registry.yarnpkg.com/react-native-syan-image-picker/-/react-native-syan-image-picker-0.3.9.tgz#f13dfebf174cf70e77f6dd07c154a68e7f6de1a5"
+  integrity sha512-NPM14td6047vXWfvdxPUNat2CqsRjnwY4PyFKf2SsAYI4DmpX0PqBJ3YXFeBQfSFuqGTK4kL6fScCoiUeeJIlw==
 
 react-native@0.57.7:
   version "0.57.7"
