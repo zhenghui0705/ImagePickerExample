@@ -3514,9 +3514,9 @@ lodash.throttle@^4.1.1:
   integrity sha1-wj6RtxAkKscMN/HhzaknTMOb8vQ=
 
 lodash@^4.13.1, lodash@^4.17.10, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.3.0, lodash@^4.6.1:
-  version "4.17.11"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
-  integrity sha512-cQKh8igo5QUhZ7lg38DYWAxMvjSAKG0A8wGSVimP07SIUEK2UO+arSRKbRZWtelMtN5V0Hkwh5ryOto/SshYIg==
+  version "4.17.15"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
+  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
 
 loose-envify@^1.0.0, loose-envify@^1.1.0, loose-envify@^1.3.1:
   version "1.4.0"
@@ -4622,10 +4622,10 @@ react-is@^16.6.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.6.3.tgz#d2d7462fcfcbe6ec0da56ad69047e47e56e7eac0"
   integrity sha512-u7FDWtthB4rWibG/+mFbVd5FvdI20yde86qKGx4lVUTWmPlSWQ4QxbBIrrs+HnXGbxOUlUzTAP/VDmvCwaP2yA==
 
-react-native-syan-image-picker@^0.3.8:
-  version "0.3.8"
-  resolved "http://172.16.164.133:4873/react-native-syan-image-picker/-/react-native-syan-image-picker-0.3.8.tgz#18c39170312ba81aaeface49e663dff30d7f4399"
-  integrity sha512-R+ePfMAS4cFzUu3nKCpHGS844IWjd8GKczuvZAQjs8T9p5QhfHjp0ozpimXoUtwcYuCe8TpLZmcf41TWShWYPg==
+react-native-syan-image-picker@^0.3.9:
+  version "0.3.9"
+  resolved "https://registry.yarnpkg.com/react-native-syan-image-picker/-/react-native-syan-image-picker-0.3.9.tgz#f13dfebf174cf70e77f6dd07c154a68e7f6de1a5"
+  integrity sha512-NPM14td6047vXWfvdxPUNat2CqsRjnwY4PyFKf2SsAYI4DmpX0PqBJ3YXFeBQfSFuqGTK4kL6fScCoiUeeJIlw==
 
 react-native@0.57.7:
   version "0.57.7"
